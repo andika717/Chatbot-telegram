@@ -7,7 +7,7 @@
 # cara ambil api key dati 
 1. kunjungi dan daftar ke https://console.groq.com/keys
 2. masukkan name untuk api project, selesaikan
-3. bentuk api key seperti ini: "gsk_......."
+3. bentuk api key seperti ini: "gsk......"
 
 # masukkan token & api key ke env
 1. key : GROQ_API_KEY ( untuk Api key dri groq )
